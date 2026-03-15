@@ -53,6 +53,12 @@ button:hover {
 #scissors {
     background-color: #7DBEED;
 }
+#lizard {
+    background-color: #2D6A4F;
+}
+#spock {
+    background-color: #0077B6;
+}
 
 p {
     font-weight: bold;
